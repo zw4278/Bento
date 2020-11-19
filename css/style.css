@@ -305,3 +305,8 @@ body {
     background-color: var(--accent);
     color: var(--fg);
 }
+var name = 'John Doe';
+var lateTxt = 'Go to Sleep! ';
+var morningTxt = 'Good morning! ';
+var afterTxt = 'Good afternoon ';
+var evenTxt = 'Good evening ';
