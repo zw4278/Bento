@@ -1,3 +1,8 @@
+var name = 'Zachary';
+var lateTxt = 'Go to Sleep! ';
+var morningTxt = 'Good morning! ';
+var afterTxt = 'Good afternoon ';
+var evenTxt = 'Good evening ';
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 :root {
     /* Fonts  */
@@ -305,8 +310,3 @@ body {
     background-color: var(--accent);
     color: var(--fg);
 }
-var name = 'Zachary';
-var lateTxt = 'Go to Sleep! ';
-var morningTxt = 'Good morning! ';
-var afterTxt = 'Good afternoon ';
-var evenTxt = 'Good evening ';
